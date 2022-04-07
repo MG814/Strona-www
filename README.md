@@ -27,7 +27,8 @@
 
 
 ## Zrzuty ekranu
-![Example screenshot](./Zrzuty_ekranu/stronaglowna.jpg)
+![Strona główna](./Zrzuty_ekranu/stronaglowna.jpg)
+![Cennik](./Zrzuty_ekranu/cennik.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
