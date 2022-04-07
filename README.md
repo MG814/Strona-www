@@ -27,7 +27,7 @@
 
 
 ## Zrzuty ekranu
-                      ![Strona główna](./Zrzuty_ekranu/stronaglowna.jpg)
+->![Strona główna](./Zrzuty_ekranu/stronaglowna.jpg)<-
 ![Cennik](./Zrzuty_ekranu/cennik.jpg)
 
 
