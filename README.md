@@ -27,7 +27,7 @@
 
 
 ## Zrzuty ekranu
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Zrzuty_ekranu/stronaglowna.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
