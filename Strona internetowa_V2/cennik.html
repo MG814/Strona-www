@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, interial-scale=1.0">
+    <title>Skład_opału.pl</title>
+    <link rel="stylesheet" href="Styl.css">
+    <link rel="icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <!-- Add jQuery library -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <!-- Add fancyBox -->
+    <link rel="stylesheet" href="source/jquery.fancybox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="source/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox();
+        });
+
+    </script>
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <img src="zar.jpg" alt="Skład opału Płomyk - header" />
+        </header>
+        <nav>
+            <a class="title" href="#">..::MENU::..</a>
+            <a class="menu" href="Strona.html">Strona główna</a>
+            <a class="menu active" href="cennik.html">Cennik</a>
+            <a class="menu" href="lokalizacja.html">Lokalizacja</a>
+            <a class="menu" href="kontakt.html">Kontakt</a>
+        </nav>
+        <section class="cennik">
+            <a class="fancybox" rel="group" href="Cennik.png"><img src="Cennik.png" alt="Twoja przeglądarka nie obsługuje znacznika img" width="600" height="400" /></a>
+        </section>
+    </div>
+</body>
+
+</html>

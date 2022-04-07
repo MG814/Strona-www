@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Skład opału.pl</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="Styl.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <!-- Add jQuery library -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <!-- Add fancyBox -->
+    <link rel="stylesheet" href="source/jquery.fancybox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="source/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox();
+        });
+
+    </script>
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <img src="zar.jpg" alt="Skład opału Płomyk - header" />
+        </header>
+        <nav>
+            <a class="title" href="#">..::MENU::..</a>
+            <a class="menu active" href="Strona.html">Strona główna</a>
+            <a class="menu" href="cennik.html">Cennik</a>
+            <a class="menu" href="lokalizacja.html">Lokalizacja</a>
+            <a class="menu" href="kontakt.html">Kontakt</a>
+        </nav>
+        <section id="content">
+            <h1>Skład opału Płomyk</h1>
+            <div class="galeria">
+                <ul>
+                    <li><a class="fancybox" rel="group" href="ZDJ/wiata.jpg"><img src="ZDJ/wiata.jpg" width="200" height="200" /></a></li>
+                    <li><a class="fancybox" rel="group" href="ZDJ/plac.jpg"><img src="ZDJ/plac.jpg" alt="Zdj plac" width="200" height="200" /></a></li>
+                </ul>
+                <ul>
+                    <li><a class="fancybox" rel="group" href="ZDJ/kostka.jpg"><img src="ZDJ/kostka.jpg" alt="Zdj kostka" width="200" height="200" /></a></li>
+                    <li><a class="fancybox" rel="group" href="ZDJ/koparka.jpg"><img src="ZDJ/koparka.jpg" alt="Zdj koparka" width="200" height="200" /></a></li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>
