@@ -21,19 +21,12 @@
 
 
 ## Użyte technologie
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- JavaScript - version 1.9
+- HTML - version 5
+- CSS
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
+## Zrzuty ekranu
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
