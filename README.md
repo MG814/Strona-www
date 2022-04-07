@@ -17,7 +17,7 @@
 ## Użyte technologie
 - JavaScript - wersja 1.9
 - HTML - wersja 5
-- CSS
+- CSS - wersja 3
 
 
 ## Zrzuty ekranu
@@ -28,7 +28,7 @@
 ## Uruchomienie
 Po pobraniu pliku wystarczy użyć przeglądarki internetowej. Zalecane to:
 - Chrome - wersja 	98.0.4758.82
-- Firefox wersja 99.0
+- Firefox - wersja 99.0
 
 
 ## Status projektu
